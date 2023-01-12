@@ -1,0 +1,12 @@
+.foto_perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 2px solid #005477;
+}
+.iconi_whatsapp{
+    max-width: 20px;
+}
+
+body{
+    background-color: #f7f7f7;
+}
